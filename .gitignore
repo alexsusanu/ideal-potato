@@ -1,0 +1,45 @@
+# Compiled Object Files
+*.o
+*.obj
+
+# Compiled Dynamic Libraries
+*.dll
+*.dylib
+*.so
+
+# Compiled Static Libraries
+*.a
+*.lib
+
+# Executables
+# Note: Exclude specific executable names if needed, e.g., main, myprogram
+main
+myprogram
+*.out
+*.exe
+
+# Debugging Files
+*.dSYM/
+*.log
+
+# Dependency directories
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE Specific
+.vscode/
+.idea/
+
+# macOS Finder metadata
+.DS_Store
+
+# Windows Thumbs
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*~
+
