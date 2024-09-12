@@ -1,0 +1,9 @@
+https://docs.aws.amazon.com/sdk-for-go/api/service/lambda/#Lambda.Invoke
+
+https://docs.aws.amazon.com/sdk-for-go/api/aws/session/#Must
+
+https://docs.aws.amazon.com/sdk-for-go/api/aws/session/#NewSession
+
+https://stackoverflow.com/questions/10125311/how-to-fire-ec2-instances-and-upload-run-a-startup-script-on-each-of-them
+
+https://docs.aws.amazon.com/sdk-for-go/api/service/s3/#S3.PutObject
